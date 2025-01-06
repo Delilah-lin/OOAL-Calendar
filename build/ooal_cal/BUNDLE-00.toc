@@ -1,0 +1,3 @@
+([('ooal_cal',
+   '/Users/dd117/PycharmProjects/PythonProject/dist/ooal_cal',
+   'EXECUTABLE')],)
